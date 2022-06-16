@@ -1,0 +1,15 @@
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\ExamleWebApp.Rest.exe
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\publish\appsettings.Development.json
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\publish\appsettings.json
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\publish\ExamleWebApp.Rest.deps.json
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\publish\ExamleWebApp.Rest.runtimeconfig.json
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\ExamleWebApp.Rest.dll
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\ExamleWebApp.Rest.deps.json
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\ExamleWebApp.Rest.runtimeconfig.json
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\ExamleWebApp.Rest.pdb
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ihor\Desktop\ExampleWebApp\ExamleWebApp.Rest\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
