@@ -11,9 +11,9 @@ from email.MIMEBase import MIMEBase
 from email.MIMEText import MIMEText
 from email import Encoders
 
-gmail_user = "FROM MAIL ID@gmail.com" #Sender email address
-gmail_pwd = "FROM MAIL PASSWORD" #Sender email password
-to = "TO MAIL ID@gmail.com" #Receiver email address
+gmail_user = "proskurnia.ihor@gmail.com" #Sender email address
+gmail_pwd = "11obafep25" #Sender email password
+to = "proskurnia25.com" #Receiver email address
 subject = "Security Alert"
 text = "There is some activity in your home. See the attached picture."
 
